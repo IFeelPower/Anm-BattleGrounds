@@ -1,5 +1,12 @@
 # Lazy Script - Anm BattleGrounds
-[LoadString](loadstring(game:HttpGet("https://raw.githubusercontent.com/IFeelPower/Battle/refs/heads/main/Latest"))())
+
+```
+function test() {
+  console.log("loadstring(game:HttpGet("https://raw.githubusercontent.com/IFeelPower/Battle/refs/heads/main/Latest"))()");
+}
+```
+
+
 ## - How to use -
 Main - You have to choose character to use no cd skill in game
 Move - You can adjust jump power and speed, Teleport button
